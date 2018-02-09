@@ -3,6 +3,7 @@
 ## 类似weixin聊天界面发送图片的显示
 
 ![Image text](img/test.png)
+![Image text](img/progress.gif)
 
 Copyright 2018 anyrsan
 
