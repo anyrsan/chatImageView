@@ -1,5 +1,9 @@
 # chatImageView
 
+## 类似weixin聊天界面发送图片的显示
+
+![Image text](img/test.png)
+
 Copyright 2018 anyrsan
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
